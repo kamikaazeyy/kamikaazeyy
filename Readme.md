@@ -4,6 +4,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
+- 📃 To get to my **[resume](https://docs.google.com/document/d/1liyu8rcximMB1_vCwoAZwbR4jWswIrFffxzdYOjDZ-o/edit?usp=sharing)**
 
 - 🔭 I’m currently a student who is trying to explore various technologies👨‍💻
 
