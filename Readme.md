@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" align="centre" height="auto" border-radius=15px src="avento.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pranav</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a Web Developer/Data Analyst from India.</h3>
 
 ## 🙋‍♂️ About Me
 - 📃 To get to my **[resume]([https://docs.google.com/document/d/1liyu8rcximMB1_vCwoAZwbR4jWswIrFffxzdYOjDZ-o/edit?usp=sharing](https://drive.google.com/drive/search?q=pranav%20mehrotra))**
