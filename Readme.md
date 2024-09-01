@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
-- 📃 To get to my **[resume](https://docs.google.com/document/d/1liyu8rcximMB1_vCwoAZwbR4jWswIrFffxzdYOjDZ-o/edit?usp=sharing)**
+- 📃 To get to my **[resume]([https://docs.google.com/document/d/1liyu8rcximMB1_vCwoAZwbR4jWswIrFffxzdYOjDZ-o/edit?usp=sharing](https://drive.google.com/drive/search?q=pranav%20mehrotra))**
 
 - 🔭 I’m a working professional who is exploring new technologies to increase my skillset👨‍💻
 
@@ -28,6 +28,9 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="[https://img.icons8.com/color/48/000000/css3.png](https://img.icons8.com/?size=48&id=Ny0t2MYrJ70p&format=png)"/> </a> 
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000"/> </a>
+    <a href="https://mui.com/material-ui/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000"/> </a>
  </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
